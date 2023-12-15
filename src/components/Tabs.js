@@ -13,10 +13,11 @@ return(
                   <li onClick={()=>setData(tab)}>{tab.title}</li>
               ))
            }
-           <div>
-              { data && <p>{data.content}</p>}
-           </div>
         </ul>
+        <div>
+              { data && <p>{data.content}</p>}
+        </div>
+      
         
     </div>
 )
