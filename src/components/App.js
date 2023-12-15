@@ -6,15 +6,15 @@ import Tabs from "./Tabs.js";
 const setTabs=[
   {
     title:"Tab 1",
-    content: "This is the Content for Tab 1."
+    content: "This is the content for Tab 1."
   },
   {
     title:"Tab 2",
-    content: "This is the Content for Tab 2."
+    content: "This is the content for Tab 2."
   },
   {
     title:"Tab 3",
-    content: "This is the Content for Tab 3."
+    content: "This is the content for Tab 3."
   }
 ]
 
